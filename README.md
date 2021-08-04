@@ -3,7 +3,8 @@ This repository contains all the files and packages needed in order to run a Gan
 It also contains a simplified python script containing the Gann Squared Nine indicator as a function that takes any number as an argument.
 
 To use this strategy in CQG, download this repository and unzip the google and proto folders in your working directory. Make sure you have a working account or demo account with CQG and have access to their WebAPI. 
+
 If using a demo account add "demo" to the client.connect() method like so:
 client.connect('wss://api.cqg.com:443')
 
-The packages required and the accompanying proto documents can also be downloaded here https://partners.cqg.com/api-resources/web-api/documentation.  
+The packages required and the accompanying proto documents can also be downloaded here: https://partners.cqg.com/api-resources/web-api/documentation.  
